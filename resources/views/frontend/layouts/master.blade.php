@@ -11,7 +11,6 @@
   <title>@yield('title')</title>
 
   <!-- Bootstrap core CSS -->
-  <!-- Todo -->
   <link href="{{asset('bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
 
   <!-- Custom fonts for this template -->
